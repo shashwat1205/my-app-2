@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+}
+
+*{
+    border:solid 
+}
+
+.menu {
+    background-color:cornsilk
+}
+
+.header{
+    display:flex
+    
+    justify-content:space-evenly
+}
